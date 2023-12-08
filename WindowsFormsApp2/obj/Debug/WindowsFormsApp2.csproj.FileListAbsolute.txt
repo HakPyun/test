@@ -1,0 +1,11 @@
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\kji99\Documents\컴퓨터시스템과\2023년도\C#응용\20231207\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
